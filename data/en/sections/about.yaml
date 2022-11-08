@@ -11,42 +11,48 @@ section:
 designation: Software Engineer
 # your company information
 company:
-  name: Example Co.
-  url: "https://www.example.com"
+  name: AVL
+  url: "https://www.avl-functions.com/"
 
 # your resume. this file path should be relative to you "static" directory
 # Dreprecated. Use resourceLinks instead.
 # resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'I am a passionate software engineer with x years of working experience. I built OSS tools for [Kubernetes](https://kubernetes.io/) using GO. My tools help people to deploy their workloads in Kubernetes. Sometimes, I work on some fun projects such as writing a theme, etc.'
+summary: >
+          I am a Machine learning  engineer, with a passion to solve challenging problems of 3d perception
+          in autonomous vehicle. I graduated with a degree in Mechanical Engineering and a minor in Aerospace Engineering, 
+          from [IIT,Kanpur](https://www.iitk.ac.in/) in 2017 and further with a master’s 
+          degree in Automotive Engineering from [RWTH Aachen](https://www.rwth-aachen.de/go/id/a/) in 2021. Currently, 
+          I am working on a research project dealing with synthetic data generation and it's evaluation.
+          In my free time I like to read books, go for a short hike or explore new hobbies
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
 - name: Email
   icon: "fas fa-envelope"
-  url: "example@gmail.com"
+  url: "510ravikothari@gmail.com"
 
 - name: Github
   icon: "fab fa-github"
-  url: "https://www.github.com/example"
+  url: "https://github.com/ravikothari510"
 
-- name: Stackoverflow
-  icon: "fab fa-stack-overflow"
-  url: "#"
+# - name: Stackoverflow
+#   icon: "fab fa-stack-overflow"
+#   url: "#"
 
 - name: LinkedIn
   icon: "fab fa-linkedin"
-  url: "#"
+  url: "https://www.linkedin.com/in/ravi-kothari-819803111/"
 
-- name: Twitter
-  icon: "fab fa-twitter"
-  url: "#"
+# - name: Twitter
+#   icon: "fab fa-twitter"
+#   url: "#"
 
-- name: Facebook
-  icon: "fab fa-facebook"
-  url: "#"
+# - name: Facebook
+#   icon: "fab fa-facebook"
+#   url: "#"
 
 # You can put custom buttons to link your relevant resources.
 # For example, you can put link for your resume.
