@@ -20,8 +20,8 @@ company:
 
 # a summary about you
 summary: >
-          I am a Machine learning  engineer, with a passion to solve challenging problems of 3d perception
-          in autonomous vehicle. I graduated with a degree in Mechanical Engineering and a minor in Aerospace Engineering, 
+          I am a Machine learning  engineer, with a passion to solve challenging problems in automated driving.
+           I graduated with a degree in Mechanical Engineering and a minor in Aerospace Engineering, 
           from [IIT,Kanpur](https://www.iitk.ac.in/) in 2017 and further with a master’s 
           degree in Automotive Engineering from [RWTH Aachen](https://www.rwth-aachen.de/go/id/a/) in 2021. Currently, 
           I am working on a research project dealing with synthetic data generation and it's evaluation.
@@ -58,7 +58,7 @@ socialLinks:
 # For example, you can put link for your resume.
 resourceLinks:
 - title: "My Resume"
-  url: "files/resume.pdf"
+  url: "files/resume_de.pdf"
 
 # Show your badges
 # You can show your verifiable certificates from https://www.credly.com.
