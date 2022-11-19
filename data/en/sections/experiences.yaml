@@ -24,9 +24,9 @@ experiences:
     # give some points about what was your responsibilities at the company.
     responsibilities:
     - Integrating world knowledge to reduce false positives in Lidar based 3D detection
-    - Implement a set of Point cloud level metrics to evaluate Lidar dataset, further deployed on Docker
+    - Implement a set of Point cloud level evaluation metrics, this is further deployed on Docker
     - Design and tested a protocol to compare two synthetic image based dataset using DNN
-    - Management of GPU clusters
+    - Management of A100 GPU node
 
   # - designation: Junior Software Engineer
   #   start: Nov 2017
