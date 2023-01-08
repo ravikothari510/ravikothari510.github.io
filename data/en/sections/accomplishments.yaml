@@ -27,6 +27,14 @@ accomplishments:
   courseOverview: "This course provides a broad introduction to exploratory data analysis (EDA), automated machine learning (AutoML), and text classification algorithms."
   certificateURL: "https://coursera.org/share/20248b25b21fcbd805031d98af2c303c"
 
+- name: Docker and Kubernetes the Complete Guide
+  timeline: "December 2022"
+  organization:
+    name: Udemy
+    url: https://avl.udemy.com/organization/home/
+  courseOverview: "This course provides a through understanding of docker images and compose, along with CI-CD deployment with github actions and Travis CI. These are further augmentet with multiple projects with Kubernetes and AWS hosting  ."
+  certificateURL: "https://avl.udemy.com/certificate/UC-29216878-1bd8-464c-9c9e-23e1279a18cd/"
+
 # - name: Grokking the System Design Interview
 #   timeline: "Jan 2018 - Sept 2018"
 #   organization:
