@@ -32,7 +32,7 @@ accomplishments:
   organization:
     name: Udemy
     url: https://avl.udemy.com/organization/home/
-  courseOverview: "This course provides a through understanding of docker images and compose, along with CI-CD deployment with github actions and Travis CI. These are further augmentet with multiple projects with Kubernetes and AWS hosting  ."
+  courseOverview: "This course provides a through understanding of docker images and compose, along with CI-CD deployment with github actions and Travis CI. These are further augmented with multiple projects in Kubernetes and AWS hosting  ."
   certificateURL: "https://avl.udemy.com/certificate/UC-29216878-1bd8-464c-9c9e-23e1279a18cd/"
 
 # - name: Grokking the System Design Interview
