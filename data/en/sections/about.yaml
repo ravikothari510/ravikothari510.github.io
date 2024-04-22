@@ -8,7 +8,7 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Software Engineer
+designation: Perception Engineer
 # your company information
 company:
   name: AVL
@@ -20,12 +20,10 @@ company:
 
 # a summary about you
 summary: >
-          I am a Machine learning  engineer, with a passion to solve challenging problems in automated driving.
-           I graduated with a degree in Mechanical Engineering and a minor in Aerospace Engineering, 
-          from [IIT,Kanpur](https://www.iitk.ac.in/) in 2017 and further with a master’s 
-          degree in Automotive Engineering from [RWTH Aachen](https://www.rwth-aachen.de/go/id/a/) in 2021. Currently, 
-          I am working on a research project dealing with synthetic data generation and it's evaluation.
-          In my free time I like to read books, go for a short hike or explore new hobbies
+          I am a Perception  engineer, with a passion to solve challenging problems in automated driving.
+          My interest lies in object detection (2D / 3D) with multi sensor setup. As a part time researcher,
+          my curiosity is piqued by exploring unsupervised learning and its applicability to detection problems.
+          In my free time I like to read books, go for a cylcling, I have recently started bouldering. 
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -57,7 +55,7 @@ socialLinks:
 # You can put custom buttons to link your relevant resources.
 # For example, you can put link for your resume.
 resourceLinks:
-- title: "My Resume"
+- title: "Resume"
   url: "files/lebenslauf.pdf"
 
 # Show your badges

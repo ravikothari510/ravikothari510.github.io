@@ -23,10 +23,10 @@ experiences:
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Integrating world knowledge to reduce false positives in Lidar based 3D detection
-    - Implement a set of Point cloud level evaluation metrics, this is further deployed on Docker
-    - Design and tested a protocol to compare two synthetic image based dataset using DNN
-    - Management of A100 GPU node
+    - Knowledge Conformity of AI Models for Pedestrian Detection
+    - Algorithm developer for AVL’ Dynamic Ground Truth system
+    - Text guided image domain adaptation with Vision Foundation Models
+    - NeRF Thesis Supervisor
 
   # - designation: Junior Software Engineer
   #   start: Nov 2017
@@ -110,7 +110,7 @@ experiences:
 
 - company:
     name:  IIT K Motorsports – BAJA Team
-    url: "http://iitkms.sntiitk.in/"
+    url: "https://iitkms.in/"
     location: Kanpur, India
     # overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
   positions:
