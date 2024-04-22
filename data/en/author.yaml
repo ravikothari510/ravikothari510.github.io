@@ -3,7 +3,7 @@ name: "Ravi Kothari"
 nickname: "Ravi"
 # greeting message before your name. it will default to "Hi! I am" if not provided
 greeting: "Hi, I am"
-image: "images/author/ravi.jpg"
+image: "images/author/IMG_0384_.png"
 # give your some contact information. they will be used in the footer
 contactInfo:
   email: "510ravikothari@gmail.com"
@@ -13,6 +13,4 @@ contactInfo:
 
 # some summary about what you do
 summary:
-  - I am a ML Engineer 
-  - I work on ADAS perception 
-  - I am waiting for our AI lords to takeover 
+  - Thou shalt not make a machine in the likeness of a human mind - F.Herbert, Dune
