@@ -3,7 +3,7 @@ section:
   name: Accomplishments
   id: accomplishments
   enable: true
-  weight: 7
+  weight: 9
   showOnNavbar: true
   # Can optionally hide the title in sections
   # hideTitle: true
@@ -11,44 +11,36 @@ section:
 
 # Your accomplishments
 accomplishments:
-- name: Deep Learning Specialization
-  timeline: "August 2022"
+- name: Linux Foundation System Administrator
+  timeline: "March 2018 - March 2019"
   organization:
-    name: DeepLearning.AI
-    url: https://www.deeplearning.ai/
-  courseOverview: This course helps to understand the ML key concepts such as foundation of NN, Hyperparameter tuning, ML Pipleline structuring, CNN models, Transformers and sequence models. Each of the modules comes with muliple assignments and projects.
-  certificateURL: "https://coursera.org/share/9198bf9e5641668612752b5cd17be8a2"
+    name: Linux Foundation
+    url: https://www.linuxfoundation.org
+  courseOverview: This course helps to understand the key concepts such as networking, storage, security, maintenance, logging and monitoring, application lifecycle, troubleshooting, API object primitives etc. It also help to grow the ability to establish basic use-cases for end users.
+  certificateURL: "https://example.com"
 
-- name: Dataset Analysis and Training with AutoML
-  timeline: "September 2022"
+- name: Machine Learning
+  timeline: "Jun 2020 - Jan 2021"
   organization:
     name: Coursera
     url: https://www.coursera.org
-  courseOverview: "This course provides a broad introduction to exploratory data analysis (EDA), automated machine learning (AutoML), and text classification algorithms."
-  certificateURL: "https://coursera.org/share/20248b25b21fcbd805031d98af2c303c"
+  courseOverview: "This course provides a broad introduction to machine learning, datamining, and statistical pattern recognition. Topics include: (i) Supervised learning (parametric/non-parametric algorithms, support vector machines, kernels, neural networks). (ii) Unsupervised learning (clustering, dimensionality reduction, recommender systems, deep learning). (iii) Best practices in machine learning (bias/variance theory; innovation process in machine learning and AI)."
+  certificateURL: "https://example.com"
 
-- name: Docker and Kubernetes the Complete Guide
-  timeline: "December 2022"
+- name: Grokking the System Design Interview
+  timeline: "Jan 2018 - Sept 2018"
+  organization:
+    name: educative
+    url: https://www.educative.io
+  courseOverview: This course is a complete guide to master the SDIs. It is created by hiring managers who’ve been working at Google, Facebook, Microsoft, and Amazon. We've carefully chosen a set of questions that have not only been repeatedly asked at top companies, but also provide a thorough experience to handle any system design problem.
+  certificateURL: "https://example.com"
+
+- name: Mastering Multithreading Programming with Go (Golang)
+  timeline: "Nov 2017 - Mar 2018"
   organization:
     name: Udemy
-    url: https://avl.udemy.com/organization/home/
-  courseOverview: "This course provides a through understanding of docker images and compose, along with CI-CD deployment with github actions and Travis CI. These are further augmented with multiple projects in Kubernetes and AWS hosting  ."
-  certificateURL: "https://avl.udemy.com/certificate/UC-29216878-1bd8-464c-9c9e-23e1279a18cd/"
-
-# - name: Grokking the System Design Interview
-#   timeline: "Jan 2018 - Sept 2018"
-#   organization:
-#     name: educative
-#     url: https://www.educative.io
-#   courseOverview: This course is a complete guide to master the SDIs. It is created by hiring managers who’ve been working at Google, Facebook, Microsoft, and Amazon. We've carefully chosen a set of questions that have not only been repeatedly asked at top companies, but also provide a thorough experience to handle any system design problem.
-#   certificateURL: "https://example.com"
-
-# - name: Mastering Multithreading Programming with Go (Golang)
-#   timeline: "Nov 2017 - Mar 2018"
-#   organization:
-#     name: Udemy
-#     url: https://www.udemy.com
-#   courseOverview: Discover how to create responsive and high performance software. Develop programs with Golang that are highly Concurrent and Parallel. Improve your programming skills in Go with more advanced, mulithreading topics.
-#   certificateURL: "https://example.com"
+    url: https://www.udemy.com
+  courseOverview: Discover how to create responsive and high performance software. Develop programs with Golang that are highly Concurrent and Parallel. Improve your programming skills in Go with more advanced, multithreading topics.
+  certificateURL: "https://example.com"
  
 

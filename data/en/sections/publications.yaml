@@ -9,93 +9,74 @@ section:
   # hideTitle: true
 
 # filter buttons
-# buttons:
-# - name: All
-#   filter: "all"
-# - name: "Machine Learning"
-#   filter: "machinelearning"
-# - name: "Image Processing"
-#   filter: "image-processing"
-# - name: Security
-#   filter: "security"
+buttons:
+- name: All
+  filter: "all"
+- name: "Machine Learning"
+  filter: "machinelearning"
+- name: "Image Processing"
+  filter: "image-processing"
+- name: Security
+  filter: "security"
 
 # your publications
 publications:
-- title: Object Detection and Heading Forecasting by fusing Raw Radar Data using Cross Attention
+- title: An Example Paper on Machine Learning
   publishedIn:
-    name: ArXiv Preprint
-    date: June 2022
-    url: https://arxiv.org/pdf/2205.08406.pdf
+    name: 2020 IEEE Region Symposium (TENSYMP)
+    date: 7 June 2020
+    url: https://example.com
   authors:
-  - name: Ravi Kothari
-    #url: https://example.com
-  - name: Ali Kariminezhad
-    #url: https://example.com
-  - name: Christian Mayr
-    #url: https://example.com
-  - name: Haoming Zhang
-    #url: https://example.com
+  - name: Dr. Madman
+    url: https://example.com
+  - name: Dr. Lessmad
+    url: https://example.com
+  - name: Dr. Moremad
+    url: https://example.com
+  - name: Dr. Goodman
+    url: https://example.com
   paper:
-    summary: In this paper, we propose a neural network for object detection and heading forecasting based on radar by fusing three raw radar channels with a cross-attention mechanism. We also introduce an improved ground truth augmentation method based on Bivariate norm, which represents the object labels in a more realistic form for radar measurements. Our results show 5% better mAP compared to state-of-the-art methods.
-    url: https://arxiv.org/pdf/2205.08406.pdf
-  # categories: ["machinelearning","image-processing"]
-  tags: ["Cross Attention", "DNN", "Raw Radar Data"]
+    summary: Voluptate in id id voluptate laboris. Minim mollit aliquip sit aliqua ut exercitation voluptate eiusmod consequat pariatur sunt enim veniam. Velit esse tempor laboris anim tempor officia. Magna non labore duis do esse sit do ipsum culpa. Officia consequat id non duis culpa dolor. Excepteur magna non nostrud cupidatat aute aliqua aliquip.
+    url: https://example.com
+  categories: ["machinelearning","image-processing"]
+  tags: ["Machine Learning", "Autonomous Driving", "Computer Vision"]
 
-- title: Self-Supervised Multimodal NeRF for Autonomous Driving
+- title: An Sample Paper on Image Processing
   publishedIn:
-    name: Preprint 
-    date: Sept 2024
-    url: https://gaurav00700.github.io/ProjectPage-Selfsupervised-NVSF/
+    name: 2020 IEEE Region Symposium (TENSYMP)
+    date: 7 June 2020
+    url: https://example.com
   authors:
-  - name: Gaurav Sharma
-    #url: https://example.com
-  - name: Ravi Kothari
-    #url: https://example.com
-  - name: Dr. Josef Schmid
-    #url: https://example.com
-
+  - name: Dr. Madman
+    url: https://example.com
+  - name: Dr. Lessmad
+    url: https://example.com
+  - name: Dr. Moremad
+    url: https://example.com
+  - name: Dr. Goodman
+    url: https://example.com
   paper:
-    summary: In this paper, we propose a Neural Radiance Fields (NeRF) based framework, referred to as Novel View Synthesis Framework (NVSF). It jointly learns the implicit neural representation of space and time-varying scene for both LiDAR and Camera. We test this on a real-world autonomous driving scenario containing both static and dynamic scenes. Compared to existing multimodal dynamic NeRFs, our framework is self-supervised, thus eliminating the need for 3D labels. For efficient training and faster convergence, we introduce heuristic based image pixel sampling to focus on pixels with rich information. To preserve the local features of LiDAR points, a Double Gradient based mask is employed. Extensive experiments on the KITTI-360 dataset show that, compared to the baseline models, our Framework has reported best performance on both LiDAR and Camera domain.
-    url: https://gaurav00700.github.io/ProjectPage-Selfsupervised-NVSF/
-  # categories: ["machinelearning","image-processing"]
-  tags: ["Multi Domain NeRF", "Scene Reconstruction", "Self Supervised"]
+    summary: Ullamco magna minim cupidatat Lorem ea ex aliqua fugiat et. Dolor quis cillum ea duis irure et commodo aliquip consectetur ullamco labore ut anim nisi. Commodo reprehenderit est consectetur tempor adipisicing occaecat exercitation amet do aliquip dolor do irure. Labore officia ut magna pariatur reprehenderit et ex sit sunt. Magna proident ullamco adipisicing sit.
+    url: https://example.com
+  categories: ["image-processing"]
+  tags: ["Image Processing", "Computer Vision"]
 
-# - title: An Sample Paper on Image Processing
-#   publishedIn:
-#     name: 2020 IEEE Region Symposium (TENSYMP)
-#     date: 7 June 2020
-#     url: https://example.com
-#   authors:
-#   - name: Dr. Madman
-#     url: https://example.com
-#   - name: Dr. Lessmad
-#     url: https://example.com
-#   - name: Dr. Moremad
-#     url: https://example.com
-#   - name: Dr. Goodman
-#     url: https://example.com
-#   paper:
-#     summary: Ullamco magna minim cupidatat Lorem ea ex aliqua fugiat et. Dolor quis cillum ea duis irure et commodo aliquip consectetur ullamco labore ut anim nisi. Commodo reprehenderit est consectetur tempor adipisicing occaecat exercitation amet do aliquip dolor do irure. Labore officia ut magna pariatur reprehenderit et ex sit sunt. Magna proident ullamco adipisicing sit.
-#     url: https://example.com
-#   categories: ["image-processing"]
-#   tags: ["Image Processing", "Computer Vision"]
-
-# - title: An Example Paper on Security
-#   publishedIn:
-#     name: 2020 IEEE Region Symposium (TENSYMP)
-#     date: 7 June 2020
-#     url: https://example.com
-#   authors:
-#   - name: Dr. Madman
-#     url: https://example.com
-#   - name: Dr. Lessmad
-#     url: https://example.com
-#   - name: Dr. Moremad
-#     url: https://example.com
-#   - name: Dr. Goodman
-#     url: https://example.com
-#   paper:
-#     summary: Dolor ad cupidatat pariatur nulla ipsum ex ullamco nisi anim ullamco. Dolore elit esse in exercitation minim aliqua. Amet velit incididunt magna laboris. Proident reprehenderit deserunt ad officia duis dolor. Tempor nostrud ullamco ullamco sint deserunt cupidatat irure minim consectetur nulla adipisicing sunt.
-#     url: https://example.com
-#   categories: ["security"]
-#   tags: ["Machine Learning", "Autonomous Driving", "Machine Vision"]
+- title: An Example Paper on Security
+  publishedIn:
+    name: 2020 IEEE Region Symposium (TENSYMP)
+    date: 7 June 2020
+    url: https://example.com
+  authors:
+  - name: Dr. Madman
+    url: https://example.com
+  - name: Dr. Lessmad
+    url: https://example.com
+  - name: Dr. Moremad
+    url: https://example.com
+  - name: Dr. Goodman
+    url: https://example.com
+  paper:
+    summary: Dolor ad cupidatat pariatur nulla ipsum ex ullamco nisi anim ullamco. Dolore elit esse in exercitation minim aliqua. Amet velit incididunt magna laboris. Proident reprehenderit deserunt ad officia duis dolor. Tempor nostrud ullamco ullamco sint deserunt cupidatat irure minim consectetur nulla adipisicing sunt.
+    url: https://example.com
+  categories: ["security"]
+  tags: ["Machine Learning", "Autonomous Driving", "Machine Vision"]

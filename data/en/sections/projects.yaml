@@ -16,67 +16,50 @@ buttons:
   filter: "professional"
 - name: Academic
   filter: "academic"
-# - name: Hobby
-#   filter: "hobby"
+- name: Hobby
+  filter: "hobby"
 
 # your projects
 projects:
-- name: Just Better Data
-  logo: /images/sections/projects/jbdata-logo_blue_rgb.png
-  role: AP lead
-  timeline: "January 2024 - Ongoing"
-  #repo:  # If your project is a public repo on GitHub, then provide this link. it will show star count.
-  url: "https://www.justbetterdata.de/en/home/"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: A pipeline to generate adverse weather data via text guided diffusion models.
-  tags: ["Domain Adaptation", "Adverse weather", "Foundation Models"]
+- name: Kubernetes
+  logo: /images/sections/projects/kubernetes.png
+  role: Contributor
+  timeline: "March 2018 - Present"
+  repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: Production-Grade Container Scheduling and Management.
+  tags: ["professional", "kubernetes", "cloud"]
 
-- name: KI Data tooling
-  logo: /images/sections/projects/KI_DataTooling.png
+- name: Tensorflow
+  logo: /images/sections/projects/tensorflow.png
   role: Developer
-  timeline: "March 2022 - September 2023"
-  #repo:  # If your project is a public repo on GitHub, then provide this link. it will show star count.
-  url: "https://www.ki-datatooling.de/"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: A tool for collecting and evaluating sythetic data and real data for effective training of Perception DNNs.
-  tags: ["Synthetic data", "Lidar", "Camera"]
-
-- name: KI Wissen
-  logo: /images/sections/projects/KI_Wissen_logo.png
-  role: Developer
-  timeline: "August 2022 - Jan 2024"
-  #repo:  # If your project is a public repo on GitHub, then provide this link. it will show star count.
-  url: "https://www.kiwissen.de/"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: Integrating world knowledge in DNN to improve Vurlnerable Road User detections.
-  tags: ["DNN", "Conformity"]
-
-- name: Automatic Rebar Counting 
-  #logo: /images/sections/projects/tensorflow.png
-  role: Team member
-  timeline: "Jan 2018 - April 2018"
-  #repo: https://github.com/tensorflow/tensorflow
+  timeline: "Jun 2018 - Present"
+  repo: https://github.com/tensorflow/tensorflow
   #url: ""
-  summary: Open CV based rebar counting, tested and deployed in a steel mill.
-  tags: ["Computer Vision", "ROS", "Raspberry pi"]
+  summary: An Open Source Machine Learning Framework for Everyone.
+  tags: ["professional", "machine-learning"]
 
-# - name: Object detection and motion forecasting with radar
-#   role: Team Lead
-#   timeline: "July 20 - Nov 2017"
-#   url: "https://www.example.com"
-#   summary: Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente eius reprehenderit animi suscipit autem eligendi esse amet aliquid error eum. Accusantium distinctio soluta aliquid quas placeat modi suscipit eligendi nisi.
-#   tags: ["academic","iot"]
+- name: A sample academic paper
+  role: Team Lead
+  timeline: "Jan 2017 - Nov 2017"
+  url: "https://www.example.com"
+  summary: Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente eius reprehenderit animi suscipit autem eligendi esse amet aliquid error eum. Accusantium distinctio soluta aliquid quas placeat modi suscipit eligendi nisi.
+  tags: ["academic","iot"]
 
-# - name: Nocode
-#   logo: /images/sections/projects/no-code.png
-#   role: Nothing
-#   timeline: "Oct 2019 - Dec 2019"
-#   repo: https://github.com/kelseyhightower/nocode
-#   #url: ""
-#   summary: The best way to write secure and reliable applications. Write nothing; deploy nowhere.
-#   tags: ["hobby", "fun"]
+- name: Nocode
+  logo: /images/sections/projects/no-code.png
+  role: Nothing
+  timeline: "Oct 2019 - Dec 2019"
+  repo: https://github.com/kelseyhightower/nocode
+  #url: ""
+  summary: The best way to write secure and reliable applications. Write nothing; deploy nowhere.
+  tags: ["hobby", "fun"]
 
-# - name: Toha
-#   logo: /images/sections/projects/toha.png
-#   role: Owner
-#   timeline: "Jun 2019 - Present"
-#   repo: https://github.com/hossainemruz/toha
-#   summary: A Hugo theme for personal portfolio.
-#   tags: ["hobby","hugo","theme","professional"]
+- name: Toha
+  logo: /images/sections/projects/toha.png
+  image: /images/sections/projects/toha_website.png
+  role: Owner
+  timeline: "Jun 2019 - Present"
+  repo: https://github.com/hossainemruz/toha
+  summary: A Hugo theme for personal portfolio.
+  tags: ["hobby","hugo","theme","professional"]
