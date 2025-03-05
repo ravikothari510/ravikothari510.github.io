@@ -20,9 +20,9 @@ company:
 
 # a summary about you
 summary: >
-          I am a Perception  engineer, with a passion to solve challenging problems in automated driving.
-          My interest lies in object detection (2D / 3D) with multi sensor setup. As a part time researcher,
-          my curiosity is piqued by exploring unsupervised learning and its applicability to detection problems.
+          ML Engineer with 4+ years of experience specializing in Computer Vision, Natural Language Processing (NLP), and
+          autonomous driving technology, with a strong focus on perception systems, deep learning models, and real-time processing
+          pipelines. My expertise includes model optimization, data-driven decision-making, and the deployment of scalable ML solutions
           In my free time I like to read books, go for cycling and I have recently started bouldering. 
 
 # your social links
@@ -55,8 +55,8 @@ socialLinks:
 # You can put custom buttons to link your relevant resources.
 # For example, you can put link for your resume.
 resourceLinks:
-- title: "Resume"
-  url: "files/lebenslauf.pdf"
+- title: "Résumé"
+  url: "files/CV_ope_page.pdf"
 
 # Show your badges
 # You can show your verifiable certificates from https://www.credly.com.

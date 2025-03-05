@@ -41,6 +41,25 @@ publications:
   # categories: ["machinelearning","image-processing"]
   tags: ["Cross Attention", "DNN", "Raw Radar Data"]
 
+- title: Self-Supervised Multimodal NeRF for Autonomous Driving
+  publishedIn:
+    name: Preprint 
+    date: Sept 2024
+    url: https://gaurav00700.github.io/ProjectPage-Selfsupervised-NVSF/
+  authors:
+  - name: Gaurav Sharma
+    #url: https://example.com
+  - name: Ravi Kothari
+    #url: https://example.com
+  - name: Dr. Josef Schmid
+    #url: https://example.com
+
+  paper:
+    summary: In this paper, we propose a Neural Radiance Fields (NeRF) based framework, referred to as Novel View Synthesis Framework (NVSF). It jointly learns the implicit neural representation of space and time-varying scene for both LiDAR and Camera. We test this on a real-world autonomous driving scenario containing both static and dynamic scenes. Compared to existing multimodal dynamic NeRFs, our framework is self-supervised, thus eliminating the need for 3D labels. For efficient training and faster convergence, we introduce heuristic based image pixel sampling to focus on pixels with rich information. To preserve the local features of LiDAR points, a Double Gradient based mask is employed. Extensive experiments on the KITTI-360 dataset show that, compared to the baseline models, our Framework has reported best performance on both LiDAR and Camera domain.
+    url: https://gaurav00700.github.io/ProjectPage-Selfsupervised-NVSF/
+  # categories: ["machinelearning","image-processing"]
+  tags: ["Multi Domain NeRF", "Scene Reconstruction", "Self Supervised"]
+
 # - title: An Sample Paper on Image Processing
 #   publishedIn:
 #     name: 2020 IEEE Region Symposium (TENSYMP)
