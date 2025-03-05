@@ -11,63 +11,113 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: Example Co.
-    url: "https://www.example.com"
-    location: Dhaka Branch
-    logo: /images/sections/experiences/company1.jpg
-    # Can optionally show a different logo for dark theme
-    # darkLogo: /images/sections/experiences/company1.jpg
+    name: AVL Software and Functions GmbH.
+    url: "https://www.avl-functions.com/"
+    location: Regensburg, Bayern
     # company overview
-    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+    # overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
   positions:
-  - designation: Senior Software Engineer
-    start: Nov 2019
+  - designation: Perception Engineer
+    start: March 2022
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
+    - Knowledge Conformity of AI Models for Pedestrian Detection
+    - Algorithm developer for AVL’s Dynamic Ground Truth system
+    - Text guided image domain adaptation with Vision Foundation Models
+    - NeRF Thesis Supervisor
 
-  - designation: Junior Software Engineer
-    start: Nov 2017
-    end: Oct 2019
-    responsibilities:
-    - Implement and test xyz feature for abc tool.
-    - Support client for abc tool.
-    - Learn k,d,w technology for xyz.
+  # - designation: Junior Software Engineer
+  #   start: Nov 2017
+  #   end: Oct 2019
+  #   responsibilities:
+  #   - Implement and test xyz feature for abc tool.
+  #   - Support client for abc tool.
+  #   - Learn k,d,w technology for xyz.
 
 - company:
-    name: PreExample Co.
-    url: "https://www.example.com"
-    location: Nowhere
-    logo: /images/sections/experiences/company2.jpg
-    # Can optionally show a different logo for dark theme
-    # darkLogo: /images/sections/experiences/company2.jpg
-    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+    name: e:fs TechHub GmbH
+    url: "https://www.efs-techhub.com/"
+    location: Ingolstadt, Bayern
+    # overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
   positions:
-  - designation: Software Engineer
-    start: March 2016
-    end: May 2017
+  - designation: Master Thesis (Note 1,0/4,0)
+    start: July 2021
+    end: Jan 2022
     responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
+    - Object detection and motion forecasting with Raw Radar data and Deep neural Net
+    - Fusion of Range – Angle – Doppler maps with Cross Attention module
+    - Velocity and motion prediction using  Temporal Fusion
 
 - company:
-    name: Intern Counting Company (ICC).
-    url: "https://www.example.com"
-    location: Intern Land
-    logo: /images/sections/experiences/company3.jpg
-    # Can optionally show a different logo for dark theme
-    # darkLogo: /images/sections/experiences/company3.jpg
-    overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
+    name: Daimler Electric drives R&D
+    url: "https://group.mercedes-benz.com/en/"
+    location: Stuttgart, BW
+    # overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
   positions:
   - designation: Intern
-    start: Jun 2015
-    end: Jan 2016
+    start: Dec 2020
+    end: May 2021
     responsibilities:
-    - Count lost of interns.
-    - Count more interns.
-    - Count me as an intern.
+    - Familiarization with the topics of driving resistance and driving power calculation
+    - Development of a master Matlab tool for multiple topologies (P2 / P24 / BEV / FCEV)
+
+- company:
+    name:  Institut für Verbrennungskraftmaschinen – VKA, RWTH
+    url: "https://www.tme.rwth-aachen.de/cms/~guln/TME/?lidx=1"
+    location: Aachen, NRW
+    # overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
+  positions:
+  - designation: Student Assistant
+    start: Feb 2020
+    end: Nov 2020
+    responsibilities:
+    - Model building of Plug in Hybrid Electric Vehicle (PHEV) with Simulink and MATLAB
+    - Developing a Energy Management Controller for VW 
+      Crafter with Dynamic Programming and Neural Network
+
+- company:
+    name:  Institut für Kraftfahrzeuge – ika, RWTH
+    url: "https://www.ika.rwth-aachen.de/de/"
+    location: Aachen, NRW
+    # overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
+  positions:
+  - designation: Self Driving Lab I/II
+    start: Oct 2019
+    end: Sep 2020
+    responsibilities:
+    - Developing Modules for Sensor fusion, Object detection, path planning  und vehicle control
+    - Implementation and testing of ADAS stack in ROS-Framework
+    - Used real world Lidar and Camera data
+
+- company:
+    name:  Tata Steel 
+    url: "https://www.tatasteel.com/"
+    location: Kalinganagar, India
+    # overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
+  positions:
+  - designation: Blast Furnace manager
+    start: July 2017
+    end: Aug 2019
+    responsibilities:
+    - Leading a team of engineers and 8 technicians
+    - Developing a Gearbox Health monitoring system
+    - Implemented a steel rebar counter using Open CV and ROS
+
+
+
+
+- company:
+    name:  IIT K Motorsports – BAJA Team
+    url: "https://iitkms.in/"
+    location: Kanpur, India
+    # overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
+  positions:
+  - designation: Technical Lead
+    start: April 2015
+    end: May 2016
+    responsibilities:
+    - Leading a team of 25 students for developing an All-Terrain Vehicle   
+    - Manufacturing and assembly of an ATV drive train
+    - Production und Testing of CFRP links
